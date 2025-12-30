@@ -1,0 +1,7 @@
+services:
+  portfolio:
+    image: simple-portfolio
+    container_name: simple-portfolio-container
+    ports:
+      - "8080:80"
+    restart: always
