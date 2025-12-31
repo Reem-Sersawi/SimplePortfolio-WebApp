@@ -67,3 +67,5 @@ Nginx مهيأ لخدمة ملفات HTML/CSS/JS من /usr/share/nginx/html
 استخدمت مشروع ويب 1 من زميلتي وعدلت عليه ليصبح خاص بي.
 
 
+## Bonus G
+This update was made using a feature branch and merged via Pull Request.
