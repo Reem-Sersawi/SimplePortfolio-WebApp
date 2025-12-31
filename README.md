@@ -1,5 +1,9 @@
 # Reem S. Alsersawi - Portfolio Website
 
+![Docker](https://img.shields.io/badge/Docker-✓-blue)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-✓-green)
+![Responsive](https://img.shields.io/badge/Responsive-✓-orange)
+
 مشروع بروفايل احترافي لمطورة الواجهات الأمامية **ريم السرساوي**، مع إعداد كامل لـ Docker للتشغيل السهل والمتسق.
 
 ## وصف مختصر
