@@ -69,3 +69,16 @@ Nginx مهيأ لخدمة ملفات HTML/CSS/JS من /usr/share/nginx/html
 
 ## Bonus G
 This update was made using a feature branch and merged via Pull Request.
+
+
+##  Deployment on Back4App VPS
+
+### Steps
+
+1. Create account on Back4App
+2. Create Container App
+3. Connect GitHub repository
+4. Deploy using Dockerfile
+
+###  Production URL
+https://YOUR_BACK4APP_URL
